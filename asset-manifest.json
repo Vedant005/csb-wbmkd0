@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://vedant005.github.io/csb-wbmkd0/static/css/main.a20c6e28.chunk.css",
+    "main.js": "https://vedant005.github.io/csb-wbmkd0/static/js/main.3c41c83f.chunk.js",
+    "main.js.map": "https://vedant005.github.io/csb-wbmkd0/static/js/main.3c41c83f.chunk.js.map",
+    "runtime-main.js": "https://vedant005.github.io/csb-wbmkd0/static/js/runtime-main.972a32f6.js",
+    "runtime-main.js.map": "https://vedant005.github.io/csb-wbmkd0/static/js/runtime-main.972a32f6.js.map",
+    "static/js/2.b7967775.chunk.js": "https://vedant005.github.io/csb-wbmkd0/static/js/2.b7967775.chunk.js",
+    "static/js/2.b7967775.chunk.js.map": "https://vedant005.github.io/csb-wbmkd0/static/js/2.b7967775.chunk.js.map",
+    "index.html": "https://vedant005.github.io/csb-wbmkd0/index.html",
+    "static/css/main.a20c6e28.chunk.css.map": "https://vedant005.github.io/csb-wbmkd0/static/css/main.a20c6e28.chunk.css.map",
+    "static/js/2.b7967775.chunk.js.LICENSE.txt": "https://vedant005.github.io/csb-wbmkd0/static/js/2.b7967775.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.972a32f6.js",
+    "static/js/2.b7967775.chunk.js",
+    "static/css/main.a20c6e28.chunk.css",
+    "static/js/main.3c41c83f.chunk.js"
+  ]
+}
